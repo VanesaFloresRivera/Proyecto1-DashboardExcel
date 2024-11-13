@@ -42,25 +42,25 @@
 
    - Por otro lado, parece que la estrategia de mostrar más parte del  producto para vender más no funciona ya que, haciendo foco en la **visibilidad de los productos**, los más vendidos son los que menos visibilidad tienen (entre 0 y 10% de visibilidad suponen un 78% de las ventas).  No obstante, haciendo foco en la distribución de las ventas dentro de cada categoria de visibilidad se observa que las ventas de los productos con mayor visibilidad se concentran en las tiendas pequeñas.
    
-   ![alt text](image-5.png)
+   ![alt text](./src/Imagenes%20readme/image-5.png)
    - Asimismo, suponiendo que cada kg de producto ocupa el mismo espacio en tienda, para analizar **qué producto es más rentable en espacio**, obtuve la **relación entre las ventas y el peso individual de los productos**. 
    Tras el análisis, a pesar de que las ventas acumuladas de los productos son similares, independientemente del peso del mismo, se detecta como a mayor peso del producto menores son las ventas que se generan por kg. 
 
-   ![alt text](image-6.png)
+   ![alt text](./src/Imagenes%20readme/image-6.png)
 
    Según los datos, más del 50% de las ventas está concentrado en los productos que nos generan entre 6 y 16 € por kg de producto. 
 
-   ![alt text](image-7.png)
+   ![alt text](./src/Imagenes%20readme/image-7.png)
 - Por último, en relación a la **categoría de productos**, las frutas y verduras son los productos más vendidos en contraposición a los pescados que son los menos vendidos. No obstante, si tenemos en cuenta la relación anterior indicada, de ventas/kg y teniendo en cuenta todos los productos, los pescados son los segundos. De hecho, para los productos regulares en grasa son los que más €/kg generan con diferencia (22€/kg), estando en el límite inferior los productos de desayuno.
 
    - Distribución teniendo en cuenta todos los productos:
-![alt text](image-8.png)
+![alt text](./src/Imagenes%20readme/image-8.png)
 
    - Distribución de los productos Regular:
-![alt text](image-9.png)
+![alt text](./src/Imagenes%20readme/image-9.png)
 
    - Sin embargo, si filtramos solo por los productos bajos en grasa, los pescados son los que menos €/kg nos generan y los productos de desayuno pasan a ser los primeros.
-![alt text](image-11.png)
+![alt text](./src/Imagenes%20readme/image-11.png)
 
 Por tanto, para optimizar mejor el espacio en tienda, convendría exponer estos productos.  
 
